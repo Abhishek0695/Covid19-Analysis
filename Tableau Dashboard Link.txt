@@ -1,1 +1,2 @@
-https://public.tableau.com/app/profile/abhishek.pancholi/viz/Covid-19Analysis_16233322640300/Dashboard1
+Dashboard 1 : https://public.tableau.com/app/profile/abhishek.pancholi/viz/Covid-19Analysis_16233322640300/Dashboard1
+Dashboard 2 : https://public.tableau.com/app/profile/abhishek.pancholi/viz/Covid_Vaccination/Dashboard1
